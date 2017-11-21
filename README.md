@@ -1,2 +1,2 @@
 # Dagger2Test
-android dagger2 test
+一个dagger2的例子，里边包含了dagger2的方方面面
