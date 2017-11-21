@@ -55,3 +55,6 @@ freeline/
 freeline_project_description.json
 /app/*.pro
 .idea
+/gradlew
+/gradlew.bat
+/gradle.properties
